@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/new-tap-room/static/js/main.839cc1ca.chunk.js",
+    "main.js.map": "/new-tap-room/static/js/main.839cc1ca.chunk.js.map",
+    "runtime~main.js": "/new-tap-room/static/js/runtime~main.4371e51a.js",
+    "runtime~main.js.map": "/new-tap-room/static/js/runtime~main.4371e51a.js.map",
+    "static/js/2.2df884ed.chunk.js": "/new-tap-room/static/js/2.2df884ed.chunk.js",
+    "static/js/2.2df884ed.chunk.js.map": "/new-tap-room/static/js/2.2df884ed.chunk.js.map",
+    "index.html": "/new-tap-room/index.html",
+    "precache-manifest.99195444d6b3cd4e7a390b0fd71b27f3.js": "/new-tap-room/precache-manifest.99195444d6b3cd4e7a390b0fd71b27f3.js",
+    "service-worker.js": "/new-tap-room/service-worker.js",
+    "static/media/beer.jpg": "/new-tap-room/static/media/beer.794f3374.jpg",
+    "static/media/story.jpeg": "/new-tap-room/static/media/story.04a77c02.jpeg",
+    "static/media/taproom.jpeg": "/new-tap-room/static/media/taproom.0bb97cbf.jpeg"
+  }
+}
